@@ -1,1 +1,3 @@
-
+Dentro de la carpeta main:
+i2c_oled_example es el codigo principal
+lvgl_demo_ui es el programa al que se llama para representar por la pantalla OLED 
