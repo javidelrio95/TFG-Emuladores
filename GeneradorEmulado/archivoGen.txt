@@ -1,3 +1,6 @@
 Dentro de la carpeta main:
-i2c_oled_example es el codigo principal
+
+i2c_oled_example es el código principal, se cogió el código de ejemplo que traía el entorno de trabajo esp-idf y se 
+modificó para poder crear nuestro proyecto personal
+
 lvgl_demo_ui es el programa al que se llama para representar por la pantalla OLED 
